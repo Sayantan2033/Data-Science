@@ -1,0 +1,9 @@
+dataset/nyc_weather.csv file:-
+
+1. How to find out total no. of records & columns?
+2. How to find out list of all columns names?
+3. How to find out all missing values count in all columns?
+4. How to show all missing Events/WindSpeedMPH  records?
+5. How to find out Max & Min Temperature ?
+6. How to find out what date was rained ?
+7. How to find out what date was Snow fall ?
